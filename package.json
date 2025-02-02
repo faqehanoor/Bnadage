@@ -32,7 +32,7 @@
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^19.0.8",
-    "@types/react-dom": "^18",
+    "@types/react-dom": "^19.0.0",  // Updated to match @types/react version
     "@types/stripe": "^8.0.416",
     "eslint": "^8",
     "eslint-config-next": "14.2.23",
